@@ -23,3 +23,4 @@ The confusion matrix and classification report confirmed strong performance.
 For improvement, try models like SVM, LSTM, or BERT with better preprocessing.
 
 Output:
+![Image](https://github.com/user-attachments/assets/a0b37d07-be71-4292-8c4b-13ac4b85a0af)
